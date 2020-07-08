@@ -1,13 +1,13 @@
 module.exports = {
   globalMeta: {
-    siteName: 'Abell Minima',
-    name: 'Hoomans of Abell Land',
-    twitter: 'AbellLand',
+    siteName: "Saurabh's DEV Articles",
+    name: 'Saurabh Daware',
+    twitter: 'saurabhcodes',
     domain: 'https://abell-dev-source-blog.netlify.app'
   },
   plugins: ['abell-source-devto'],
   pluginConfig: {
-    devUsername: 'saurabhdaware',
+    devUsername: 'saurabhdaware', 
     articleCount: 10
   }
 }

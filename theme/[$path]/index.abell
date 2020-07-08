@@ -40,6 +40,7 @@
     {{ DarkModeToggle.html }}
     <div class="blog-container">
       <div class="content">
+        <h1>{{ meta.title }}</h1>
         {{ $importContent(`${meta.$path}/index.md`) }}
       </div>
     </div>

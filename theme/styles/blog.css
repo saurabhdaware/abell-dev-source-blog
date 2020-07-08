@@ -30,6 +30,12 @@ code{
   font-family: var(--font-family-primary);
 }
 
+/* Woah did not work ? */
+.blog-container img {
+  display: block;
+  max-width: 100%;
+}
+
 
 blockquote{
   background-color: var(--code-background);
