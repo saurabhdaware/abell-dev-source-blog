@@ -2,4 +2,10 @@
 
 https://abell-dev-source-blog.netlify.app
 
-Not ready to use yet :/
+This template is super experimental and should not be used in serious projects!
+
+```sh
+npx create-abell-app my-devto-blog --tempalte abell-dev-source-blog
+```
+
+Check out [saurabhdaware/abell-source-devto](https://github.com/saurabhdaware/abell-source-devto) plugin for using DEV.to content in custom theme.
