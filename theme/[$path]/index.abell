@@ -10,6 +10,12 @@
   <meta charset="UTF-8"/>
   <meta name="description" content="{{ meta.description }}"/>
   <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+ 
+  <meta name="twitter:card" content="summary_large_image"></meta>
+  <meta name="twitter:creator" content="@AbellLand"></meta>
+
+  <meta property="og:image:secure_url" itemprop="image" content="{{ meta.social_image }}"/>
+  <meta property="og:image" itemprop="image" content="{{ meta.social_image }}"/>
 
   <meta name="og:title" content="{{ meta.title }}"/>
   <meta name="og:description" content="{{ meta.description }}"/>
