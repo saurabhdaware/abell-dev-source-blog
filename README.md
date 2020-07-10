@@ -10,7 +10,7 @@ npx create-abell-app my-devto-blog --template https://github.com/saurabhdaware/a
 
 or
 
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saurabhdaware/abell-dev-source-blog)
 
 ---
 
